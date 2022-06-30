@@ -1,0 +1,4 @@
+#cmakedefine HAVE_ALLOCA_H
+#cmakedefine LH_ARM
+#cmakedefine LH_AMD64
+#cmakedefine LH_X86

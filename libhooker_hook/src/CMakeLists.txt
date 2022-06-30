@@ -1,0 +1,5 @@
+add_subdirectory(common)
+add_subdirectory(helpers)
+add_subdirectory(interface)
+add_subdirectory(needle)
+add_subdirectory(testapp)

@@ -1,0 +1,6 @@
+ezpatch
+target
+build/
+*.a
+*.so
+*.o

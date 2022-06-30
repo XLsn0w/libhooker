@@ -1,0 +1,1 @@
+add_library(lh_common lh_common.c)

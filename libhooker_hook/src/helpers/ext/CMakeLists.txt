@@ -1,0 +1,1 @@
+add_library(lh_extmod lh_inject.c)

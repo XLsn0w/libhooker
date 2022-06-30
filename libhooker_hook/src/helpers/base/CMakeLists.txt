@@ -1,0 +1,1 @@
+add_library(lh_basemod lhm_helper.c)
