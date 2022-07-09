@@ -9,3 +9,8 @@ libhooker 基板开发教程
 
 ## 永久签名ipa实现不过期插件更新第二版
 [PermasigneriOS插件下载](https://mp.weixin.qq.com/s?__biz=MzI4NjI4OTg1MA==&mid=2247493219&idx=1&sn=2589a7c2344c8ea577fe91762df9ee7b&chksm=ebdd9cb6dcaa15a01647e06783a0589850b3cf97993c2a3a1233e222bfc20ccbb7cdad41fbb4&mpshare=1&scene=23&srcid=0709FWFKlzW9B40p07fYNy2Z&sharer_sharetime=1657333987162&sharer_shareid=16bb66cd5fc48e6ac890c05c43ce8981%23rd)
+
+### XLsn0w's Cydia Repo: https://XLsn0w.github.io/tweak/
+### XLsn0w's Cydia Repo: https://XLsn0w.github.io/tweaks/
+### Cydiapp's Cydia Repo: https://XLsn0w.github.io/Cydiapp/
+<img src="https://github.com/XLsn0w/Cydiapp/blob/main/XLsn0w's%20Cydia%20Repo.png?raw=true" alt="XLsn0w" width="470" height="224" align="bottom" />
